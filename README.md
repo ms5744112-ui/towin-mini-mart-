@@ -1,35 +1,59 @@
 
 <div align="center">
 
-  <h1>🛒 TOWIN MINI MART</h1>
+# 🛒 TOWIN MINI MART
 
-  <h3>Your Everyday Store, Just One Click Away!</h3>
+### Your Everyday Store, Just One Click Away!
 
-  <p>
-    Welcome to Towin Mini Mart.
-    Your trusted online grocery and snacks store.
-  </p>
+**Welcome to TOWIN MINI MART**
 
-  <img
-    src="https://placehold.co/1200x400/16834b/ffffff?text=TOWIN+MINI+MART"
-    width="100%"
-    alt="Towin Mini Mart Banner"
-  />
+Your trusted destination for quality groceries, snacks
+and everyday essentials at affordable prices.
 
-  <h2>About Our Store</h2>
+<img src="https://placehold.co/1200x400/16834b/ffffff?text=TOWIN+MINI+MART" width="100%" alt="Towin Mini Mart Banner"/>
 
-  <p>
-    Snacks, Chips, Chanachur, Biscuits,
-    Drinks and Everyday Essentials.
-  </p>
+<br/>
 
-  <h2>Contact Information</h2>
+## 🏪 ABOUT OUR STORE
 
-  <p>Email: towinbro52@gmail.com</p>
-  <p>Phone: +8801345772881</p>
+Welcome to Towin Mini Mart – your online shopping destination!
 
-  <h3>Website Owner: Shihab</h3>
+We offer a wide range of everyday products with quality,
+convenience and customer satisfaction as our priority.
 
-  <p>© 2026 TOWIN MINI MART</p>
+## 🛍️ OUR PRODUCT COLLECTION
+
+| Category | Products |
+|:---:|:---|
+| 🍟 Snacks | Chips, Chanachur |
+| 🍪 Biscuits | Cookies, Biscuits |
+| 🥤 Drinks | Soft Drinks, Juices |
+| 🛒 Essentials | Daily Grocery Items |
+
+## ⭐ WHY CHOOSE US?
+
+- ✅ Quality Products
+- ✅ Affordable Prices
+- ✅ Easy Ordering
+- ✅ Customer Support
+- ✅ Convenient Shopping
+
+## 📞 CONTACT US
+
+**Email:** towinbro52@gmail.com
+
+**Phone:** +8801345772881
+
+**Website Owner:** Shihab & Saiful
+
+**Brand:** TOWIN MINI MART
+
+---
+
+### ❤️ THANK YOU FOR VISITING!
+
+*Your Trust, Our Priority.*
+
+© 2026 TOWIN MINI MART. All Rights Reserved.
 
 </div>
